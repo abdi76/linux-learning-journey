@@ -1,7 +1,5 @@
 # My Linux Learning Journey
 
-**Student**: Abdinasir Jama  
-**Start Date**: September 3, 2025  
 **Goal**: Master Linux for DevOps and System Administration
 
 ## Course Progress
